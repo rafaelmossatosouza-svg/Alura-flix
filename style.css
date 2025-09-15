@@ -1,5 +1,6 @@
 header{
     font-size: 50px;
+    border: dotted 5px blue;
 }
 body{
     background-color: rgb(11, 221, 151);
@@ -11,4 +12,7 @@ header{
 }
 h1{
     font-size: 330px;
+}
+p{
+    font-size: 20px;
 }
