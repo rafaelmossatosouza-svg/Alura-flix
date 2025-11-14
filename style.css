@@ -1,21 +1,36 @@
-header{
-    font-size: 50px;
-    border: dotted 5px blue;
+body{
+    background-color: #0bdd97;
+    color: azure;
+
+    font-family: "Story Script", sans-serif;
+
     margin: 0px;
 }
-body{
-    background-color: rgb(11, 221, 151);
-    color:azure;
-    font-family: "Bitcount Grid Double", system-ui;
-       /* margin: 30px;*/
-       padding: 30px;
-}
-header{
+
+header {
     font-size: 50px;
+    text-align: center;
+    border-bottom: solid 5px pink;
+   /* margin: 30px;*/
+   padding: 30px;
+   color:blueviolet
 }
 h1{
-    font-size: 330px;
+    font-size: 30px;
 }
 p{
-    font-size: 20px;
+    font-size: 30px;
+}
+
+section{
+    background-color: rgb(66, 44, 126);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 10%;
 }
